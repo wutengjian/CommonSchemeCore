@@ -1,9 +1,0 @@
-E:\CommonSchemeCore\CommonSchemeCore.UserCenterModels\bin\Release\netcoreapp2.1\CommonSchemeCore.UserCenterModels.deps.json
-E:\CommonSchemeCore\CommonSchemeCore.UserCenterModels\bin\Release\netcoreapp2.1\CommonSchemeCore.UserCenterModels.dll
-E:\CommonSchemeCore\CommonSchemeCore.UserCenterModels\bin\Release\netcoreapp2.1\CommonSchemeCore.UserCenterModels.pdb
-E:\CommonSchemeCore\CommonSchemeCore.UserCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.UserCenterModels.csprojAssemblyReference.cache
-E:\CommonSchemeCore\CommonSchemeCore.UserCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.UserCenterModels.csproj.CoreCompileInputs.cache
-E:\CommonSchemeCore\CommonSchemeCore.UserCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.UserCenterModels.AssemblyInfoInputs.cache
-E:\CommonSchemeCore\CommonSchemeCore.UserCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.UserCenterModels.AssemblyInfo.cs
-E:\CommonSchemeCore\CommonSchemeCore.UserCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.UserCenterModels.dll
-E:\CommonSchemeCore\CommonSchemeCore.UserCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.UserCenterModels.pdb

@@ -1,9 +1,0 @@
-E:\CommonSchemeCore\CommonSchemeCore.SharedImplementation\bin\Debug\netcoreapp2.1\CommonSchemeCore.SharedImplementation.deps.json
-E:\CommonSchemeCore\CommonSchemeCore.SharedImplementation\bin\Debug\netcoreapp2.1\CommonSchemeCore.SharedImplementation.dll
-E:\CommonSchemeCore\CommonSchemeCore.SharedImplementation\bin\Debug\netcoreapp2.1\CommonSchemeCore.SharedImplementation.pdb
-E:\CommonSchemeCore\CommonSchemeCore.SharedImplementation\obj\Debug\netcoreapp2.1\CommonSchemeCore.SharedImplementation.csproj.CoreCompileInputs.cache
-E:\CommonSchemeCore\CommonSchemeCore.SharedImplementation\obj\Debug\netcoreapp2.1\CommonSchemeCore.SharedImplementation.AssemblyInfoInputs.cache
-E:\CommonSchemeCore\CommonSchemeCore.SharedImplementation\obj\Debug\netcoreapp2.1\CommonSchemeCore.SharedImplementation.AssemblyInfo.cs
-E:\CommonSchemeCore\CommonSchemeCore.SharedImplementation\obj\Debug\netcoreapp2.1\CommonSchemeCore.SharedImplementation.dll
-E:\CommonSchemeCore\CommonSchemeCore.SharedImplementation\obj\Debug\netcoreapp2.1\CommonSchemeCore.SharedImplementation.pdb
-E:\CommonSchemeCore\CommonSchemeCore.SharedImplementation\obj\Debug\netcoreapp2.1\CommonSchemeCore.SharedImplementation.csprojAssemblyReference.cache
