@@ -1,0 +1,9 @@
+E:\CommonSchemeCore\CommonSchemeCore.BasicToolkit\bin\Debug\netcoreapp2.1\CommonSchemeCore.BasicToolkit.deps.json
+E:\CommonSchemeCore\CommonSchemeCore.BasicToolkit\bin\Debug\netcoreapp2.1\CommonSchemeCore.BasicToolkit.dll
+E:\CommonSchemeCore\CommonSchemeCore.BasicToolkit\bin\Debug\netcoreapp2.1\CommonSchemeCore.BasicToolkit.pdb
+E:\CommonSchemeCore\CommonSchemeCore.BasicToolkit\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicToolkit.csproj.CoreCompileInputs.cache
+E:\CommonSchemeCore\CommonSchemeCore.BasicToolkit\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicToolkit.AssemblyInfoInputs.cache
+E:\CommonSchemeCore\CommonSchemeCore.BasicToolkit\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicToolkit.AssemblyInfo.cs
+E:\CommonSchemeCore\CommonSchemeCore.BasicToolkit\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicToolkit.dll
+E:\CommonSchemeCore\CommonSchemeCore.BasicToolkit\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicToolkit.pdb
+E:\CommonSchemeCore\CommonSchemeCore.BasicToolkit\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicToolkit.csprojAssemblyReference.cache

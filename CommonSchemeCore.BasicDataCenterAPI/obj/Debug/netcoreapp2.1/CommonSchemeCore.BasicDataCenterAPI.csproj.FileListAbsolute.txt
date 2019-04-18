@@ -1,0 +1,14 @@
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterAPI\bin\Debug\netcoreapp2.1\CommonSchemeCore.BasicDataCenterAPI.deps.json
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterAPI\bin\Debug\netcoreapp2.1\CommonSchemeCore.BasicDataCenterAPI.runtimeconfig.json
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterAPI\bin\Debug\netcoreapp2.1\CommonSchemeCore.BasicDataCenterAPI.runtimeconfig.dev.json
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterAPI\bin\Debug\netcoreapp2.1\CommonSchemeCore.BasicDataCenterAPI.dll
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterAPI\bin\Debug\netcoreapp2.1\CommonSchemeCore.BasicDataCenterAPI.pdb
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterAPI\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicDataCenterAPI.csproj.CoreCompileInputs.cache
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterAPI\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicDataCenterAPI.RazorAssemblyInfo.cache
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterAPI\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicDataCenterAPI.RazorAssemblyInfo.cs
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterAPI\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicDataCenterAPI.AssemblyInfoInputs.cache
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterAPI\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicDataCenterAPI.AssemblyInfo.cs
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterAPI\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicDataCenterAPI.RazorTargetAssemblyInfo.cache
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterAPI\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicDataCenterAPI.dll
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterAPI\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicDataCenterAPI.pdb
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterAPI\obj\Debug\netcoreapp2.1\CommonSchemeCore.BasicDataCenterAPI.csprojAssemblyReference.cache

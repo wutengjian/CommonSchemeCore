@@ -1,0 +1,9 @@
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterModels\bin\Release\netcoreapp2.1\CommonSchemeCore.BasicDataCenterModels.deps.json
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterModels\bin\Release\netcoreapp2.1\CommonSchemeCore.BasicDataCenterModels.dll
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterModels\bin\Release\netcoreapp2.1\CommonSchemeCore.BasicDataCenterModels.pdb
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.BasicDataCenterModels.csprojAssemblyReference.cache
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.BasicDataCenterModels.csproj.CoreCompileInputs.cache
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.BasicDataCenterModels.AssemblyInfoInputs.cache
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.BasicDataCenterModels.AssemblyInfo.cs
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.BasicDataCenterModels.dll
+E:\CommonSchemeCore\CommonSchemeCore.BasicDataCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.BasicDataCenterModels.pdb

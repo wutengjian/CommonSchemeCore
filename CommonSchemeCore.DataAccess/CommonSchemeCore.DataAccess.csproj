@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DapperCore\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommonSchemeCore.BasicDataCenterModels\CommonSchemeCore.BasicDataCenterModels.csproj" />
+    <ProjectReference Include="..\CommonSchemeCore.LogCenterModels\CommonSchemeCore.LogCenterModels.csproj" />
+    <ProjectReference Include="..\CommonSchemeCore.StatiscalMonitoringCenterModels\CommonSchemeCore.StatiscalMonitoringCenterModels.csproj" />
+    <ProjectReference Include="..\CommonSchemeCore.UserCenterModels\CommonSchemeCore.UserCenterModels.csproj" />
+  </ItemGroup>
+
+</Project>

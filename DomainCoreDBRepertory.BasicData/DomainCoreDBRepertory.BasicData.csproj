@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommonSchemeCore.BasicDataCenterModels\CommonSchemeCore.BasicDataCenterModels.csproj" />
+    <ProjectReference Include="..\CommonSchemeCore.BasicToolkit\CommonSchemeCore.BasicToolkit.csproj" />
+    <ProjectReference Include="..\CommonSchemeCore.DataAccess\CommonSchemeCore.DataAccess.csproj" />
+    <ProjectReference Include="..\CommonSchemeCore.LogCenterModels\CommonSchemeCore.LogCenterModels.csproj" />
+    <ProjectReference Include="..\CommonSchemeCore.StatiscalMonitoringCenterModels\CommonSchemeCore.StatiscalMonitoringCenterModels.csproj" />
+    <ProjectReference Include="..\CommonSchemeCore.UserCenterModels\CommonSchemeCore.UserCenterModels.csproj" />
+  </ItemGroup>
+
+</Project>

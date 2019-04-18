@@ -1,0 +1,9 @@
+E:\CommonSchemeCore\CommonSchemeCore.LogCenterModels\bin\Release\netcoreapp2.1\CommonSchemeCore.LogCenterModels.deps.json
+E:\CommonSchemeCore\CommonSchemeCore.LogCenterModels\bin\Release\netcoreapp2.1\CommonSchemeCore.LogCenterModels.dll
+E:\CommonSchemeCore\CommonSchemeCore.LogCenterModels\bin\Release\netcoreapp2.1\CommonSchemeCore.LogCenterModels.pdb
+E:\CommonSchemeCore\CommonSchemeCore.LogCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.LogCenterModels.csprojAssemblyReference.cache
+E:\CommonSchemeCore\CommonSchemeCore.LogCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.LogCenterModels.csproj.CoreCompileInputs.cache
+E:\CommonSchemeCore\CommonSchemeCore.LogCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.LogCenterModels.AssemblyInfoInputs.cache
+E:\CommonSchemeCore\CommonSchemeCore.LogCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.LogCenterModels.AssemblyInfo.cs
+E:\CommonSchemeCore\CommonSchemeCore.LogCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.LogCenterModels.dll
+E:\CommonSchemeCore\CommonSchemeCore.LogCenterModels\obj\Release\netcoreapp2.1\CommonSchemeCore.LogCenterModels.pdb
